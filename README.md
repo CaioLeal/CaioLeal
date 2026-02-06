@@ -135,14 +135,17 @@ Sou um desenvolvedor apaixonado por aprender novas tecnologias e resolver proble
       height="200" 
       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CaioLeal&theme=synthwave" 
   />
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CaioLeal&theme=synthwave&utcOffset=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CaioLeal&theme=synthwave&utcOffset=8)
 
-<img 
+<!--<img 
   align="left" 
   alt="GitHub Streak" 
   height="268" 
   src="https://github-readme-streak-stats.herokuapp.com?user=CaioLeal&theme=synthwave&hide_border=true&locale=pt_BR" 
-/>
+/> -->
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=CaioLeal&theme=synthwave&hide_border=true&locale=pt_BR)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 
 <!-- LINKS UTILIZADOS
