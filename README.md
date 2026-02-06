@@ -153,9 +153,6 @@ Sou um desenvolvedor apaixonado por aprender novas tecnologias e resolver proble
 />
 
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=CaioLeal&theme=synthwave&hide_border=true&locale=pt_BR)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-
 
 <!-- LINKS UTILIZADOS
     https://github-profile-summary-cards.vercel.app/demo.html
