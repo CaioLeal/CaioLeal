@@ -137,7 +137,13 @@ Sou um desenvolvedor apaixonado por aprender novas tecnologias e resolver proble
   />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CaioLeal&theme=synthwave&utcOffset=8)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CaioLeal&theme=synthwave&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+<img 
+  align="left" 
+  alt="GitHub Streak" 
+  height="268" 
+  src="https://github-readme-streak-stats.herokuapp.com?user=CaioLeal&theme=synthwave&hide_border=true&locale=pt_BR" 
+/>
+
 
 <!-- LINKS UTILIZADOS
     https://github-profile-summary-cards.vercel.app/demo.html
