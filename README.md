@@ -139,8 +139,6 @@ Sou um desenvolvedor apaixonado por aprender novas tecnologias e resolver proble
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CaioLeal&theme=synthwave&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CaioLeal&theme=synthwave&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
-
 <!-- LINKS UTILIZADOS
     https://github-profile-summary-cards.vercel.app/demo.html
 
