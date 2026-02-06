@@ -147,7 +147,7 @@ Sou um desenvolvedor apaixonado por aprender novas tecnologias e resolver proble
 <img 
   align="left" 
   alt="GitHub Streak" 
-  height="269"
+  height="300"
   style="padding-right: 10px;"
   src="https://github-readme-streak-stats-eight.vercel.app/?user=CaioLeal&theme=synthwave&hide_border=true&locale=pt_BR" 
 />
