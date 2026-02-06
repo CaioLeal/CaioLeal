@@ -107,7 +107,7 @@ Sou um desenvolvedor apaixonado por aprender novas tecnologias e resolver proble
 <br/>
 
 ### 📊 Estatísticas
-<!-- <p>
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -134,20 +134,12 @@ Sou um desenvolvedor apaixonado por aprender novas tecnologias e resolver proble
       alt="GitHub Stats" 
       height="200" 
       src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CaioLeal&theme=synthwave" 
-  /> -->
-  <!--Commits --->
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioLeal&theme=synthwave)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaioLeal&theme=synthwave)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CaioLeal&theme=synthwave)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CaioLeal&theme=synthwave)
-
+  />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CaioLeal&theme=synthwave&utcOffset=8)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CaioLeal&theme=synthwave&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CaioLeal&theme=synthwave&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
 
 <!-- LINKS UTILIZADOS
     https://github-profile-summary-cards.vercel.app/demo.html
