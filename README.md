@@ -144,6 +144,15 @@ Sou um desenvolvedor apaixonado por aprender novas tecnologias e resolver proble
   src="https://github-readme-streak-stats.herokuapp.com?user=CaioLeal&theme=synthwave&hide_border=true&locale=pt_BR" 
 /> -->
 
+<img 
+  align="left" 
+  alt="GitHub Streak" 
+  height="200"
+  style="padding-right: 10px;"
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=CaioLeal&theme=synthwave&hide_border=true&locale=pt_BR" 
+/>
+
+
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=CaioLeal&theme=synthwave&hide_border=true&locale=pt_BR)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
