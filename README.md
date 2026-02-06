@@ -113,27 +113,27 @@ Sou um desenvolvedor apaixonado por aprender novas tecnologias e resolver proble
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioLeal&theme=synthwave" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioLeal&theme=synthwave" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaioLeal&theme=synthwave" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaioLeal&theme=synthwave" 
   />
     
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CaioLeal&theme=synthwave" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CaioLeal&theme=synthwave" 
   /> 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CaioLeal&theme=synthwave" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CaioLeal&theme=synthwave" 
   />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CaioLeal&theme=synthwave&utcOffset=8)
 
