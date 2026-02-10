@@ -129,22 +129,22 @@ I am a developer passionate about learning new technologies and solving problems
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaioLeal&theme=synthwave" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaioLeal&theme=transparent" 
   />
     
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CaioLeal&theme=synthwave" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CaioLeal&theme=transparent" 
   /> 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CaioLeal&theme=synthwave" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CaioLeal&theme=transparent" 
   />
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CaioLeal&theme=synthwave&utcOffset=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CaioLeal&theme=transparent&utcOffset=8)
 
 <!--<img 
   align="left" 
@@ -158,7 +158,7 @@ I am a developer passionate about learning new technologies and solving problems
   alt="GitHub Streak" 
   height="300"
   style="padding-right: 10px;"
-  src="https://github-readme-streak-stats-eight.vercel.app/?user=CaioLeal&theme=synthwave&hide_border=true&locale=pt_BR" 
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=CaioLeal&theme=transparent&hide_border=true&locale=pt_BR" 
 />
 
 
