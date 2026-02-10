@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Caio Leal
 
-**`Estudante de Programação`**
+**`Software Development Student`**
 I am a developer passionate about learning new technologies and solving problems through code, turning ideas into digital reality. Currently, I focus my studies on Systems Analysis and Development, with several professional courses in HTML, CSS, JavaScript, Databases (MySQL), and Git, always keeping a close eye on trends in the technology market.
 
 ---
