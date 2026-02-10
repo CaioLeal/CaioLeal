@@ -1,11 +1,11 @@
 # 👨🏻‍💻 Caio Leal
 
 **`Estudante de Programação`**
-Sou um desenvolvedor apaixonado por aprender novas tecnologias e resolver problemas através do código para transformar ideias em realidade digital. Atualmente, foco meus estudos em **Análise e Desenvolvimento de Sistemas**, com diversos cursos profissionalizantes em **HTML, CSS, JavaScript, Banco de Dados (MySQL) e Git**, mantendo sempre um olhar atento às tendências do mercado de tecnologia.
+I am a developer passionate about learning new technologies and solving problems through code, turning ideas into digital reality. Currently, I focus my studies on Systems Analysis and Development, with several professional courses in HTML, CSS, JavaScript, Databases (MySQL), and Git, always keeping a close eye on trends in the technology market.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Technologies & Tools
 
 <img 
     align="left" 
@@ -106,7 +106,7 @@ Sou um desenvolvedor apaixonado por aprender novas tecnologias e resolver proble
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics Overview
 <p>
   <img 
     align="left" 
