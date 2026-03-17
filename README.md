@@ -116,35 +116,32 @@ I am a developer passionate about learning new technologies and solving problems
 <br/>
 
 ### 📊 Statistics Overview
-<p>
+<p align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioLeal&theme=transparent" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaioLeal&theme=transparent" 
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaioLeal&theme=transparent" 
   />
-    
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CaioLeal&theme=transparent" 
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CaioLeal&theme=transparent" 
   /> 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CaioLeal&theme=transparent" 
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CaioLeal&theme=transparent" 
   />
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CaioLeal&theme=transparent&utcOffset=8)
+  <img 
+    alt="Productive Time"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CaioLeal&theme=transparent&utcOffset=8"
+  />
+</p>
 
 <!--<img 
   align="left" 
