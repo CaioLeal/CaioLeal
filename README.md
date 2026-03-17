@@ -154,7 +154,7 @@ I am a developer passionate about learning new technologies and solving problems
 /> -->
 
 <img 
-  align="left" 
+  align="center" 
   alt="GitHub Streak" 
   height="300"
   style="padding-right: 10px;"
