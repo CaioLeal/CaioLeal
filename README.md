@@ -153,13 +153,13 @@ I am a developer passionate about learning new technologies and solving problems
   src="https://github-readme-streak-stats.herokuapp.com?user=CaioLeal&theme=synthwave&hide_border=true&locale=pt_BR" 
 /> -->
 
-<img 
-  align="center" 
-  alt="GitHub Streak" 
-  height="300"
-  style="padding-right: 10px;"
-  src="https://github-readme-streak-stats-eight.vercel.app/?user=CaioLeal&theme=transparent&hide_border=true&locale=pt_BR" 
-/>
+<p align="center">
+  <img 
+    alt="GitHub Streak" 
+    height="300"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=CaioLeal&theme=transparent&hide_border=true&locale=pt_BR" 
+  />
+</p>
 
 
 
