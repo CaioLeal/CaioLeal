@@ -8,7 +8,7 @@ I am a developer passionate about learning new technologies and solving problems
 ### 🤖 Technologies & Tools
 
 <p align="center">
-  <strong>Frontend</strong><br><br>
+  <strong>Frontend & Backend & Database</strong><br><br>
   <img alt="HTML" title="HTML" width="30px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS" title="CSS" width="30px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="30px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -16,11 +16,7 @@ I am a developer passionate about learning new technologies and solving problems
   <img alt="Vite" title="Vite" width="30px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
   <img alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img alt="Bootstrap" title="Bootstrap" width="30px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-</p>
-
-<p align="center">
-  <strong>Backend & Database</strong><br><br>
-  <img alt="Node.js" title="Node.js" width="30px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+    <img alt="Node.js" title="Node.js" width="30px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img alt="Java" title="Java" width="30px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img alt="PHP" title="PHP" width="30px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img alt="Python" title="Python" width="30px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
