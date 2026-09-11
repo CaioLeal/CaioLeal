@@ -9,7 +9,7 @@ I am a developer passionate about learning new technologies and solving problems
 
 <p align="center">
   <strong>Frontend & Backend & Database</strong><br><br>
-  <img alt="HTML" title="HTML" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="HTML" title="HTML" width="40px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS" title="CSS" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="React" title="React" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
